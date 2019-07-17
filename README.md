@@ -5,7 +5,7 @@ Document your thinking process as you attempt to answer these questions. Include
 
 ### Questions to answer using the data:
 
-1. Which brewery produces the strongest beers by ABV%?
+1. Which 5 breweries produces the strongest beers by ABV%?
 2. If you had to pick 3 beers to recommend using only this data, which would you pick?
 3. Which of the factors (aroma, taste, appearance, palette) are most important in determining the overall quality of a beer?
 
@@ -13,13 +13,13 @@ Document your thinking process as you attempt to answer these questions. Include
 
 A die is sold for cheaters which has 6 faces that are weighted unevenly so that the probability of rolling each number is not uniform. The probability of rolling each number is given in the table below:
 
-| # | Probability |
-|--- |------------ |
-|    1   	|     0.34    |
-|    2  |     0.18    |
-|    3  |     0.05   	|
-|    4  |     0.18    |
-|    5  |     0.13    |
-|    6  |     0.12    |
+| #   | Probability |
+| --- | ----------- |
+|  1  |     0.34    |
+|  2  |     0.18    |
+|  3  |     0.05    |
+|  4  |     0.18    |
+|  5  |     0.13    |
+|  6  |     0.12    |
 
 Generate 10,000 samples using only a built-in uniform random number generator (and no other packages), from the distribution above. Explain why your approach works and illustrate with graphic(s) where appropriate.
