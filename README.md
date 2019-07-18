@@ -5,7 +5,7 @@ Document your thinking process as you attempt to answer these questions. Include
 
 ### Questions to answer using the data:
 
-1. Which 5 breweries produces the strongest beers by ABV%?
+1. Which 5 breweries produces the strongest beers by ABV%? Alcohol by volume (abbreviated as ABV) is a standard measure of how much alcohol is contained in a given volume of an alcoholic beverage.
 2. If you had to pick 3 beers to recommend using only this data, which would you pick?
 3. Which of the factors (aroma, taste, appearance, palette) are most important in determining the overall quality of a beer?
 
