@@ -1,7 +1,7 @@
 # beer_reviews
 Contained is a dataset consisting of 1.5 million beer reviews from beeradvocate.com
 
-Document your thinking process as you attempt to answer these questions. Include any plots used to support your answers and provide the code, either packaged with the analysis as a markdown or notebook file or separately in a code file.  Please also export your notebook and submit as PDF. Complete the work using any open source programming language with statistics capabilities (e.g. R, python, scala, java, Octave, Julia. No SQL or SAS derivatives).
+Document your thinking process as you attempt to answer these questions. Include any plots used to support your answers and provide the code, either packaged with the analysis as a markdown or notebook file or separately in a code file.  Please also export your notebook and submit as PDF. Complete the work using any open source programming language with statistics capabilities (e.g. R, python, scala, Octave, Julia. No SQL or SAS derivatives).
 
 
 ### Questions to answer using the data:
